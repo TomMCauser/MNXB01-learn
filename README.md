@@ -2,4 +2,4 @@
 
 Once upon a time,
 There was an **evil** _witch_.
-There was a **beautiful** _princess_. 
+and everyone was afraid of her.
